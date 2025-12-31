@@ -1,4 +1,4 @@
-name = "livestore-merged"
+name = "livestore-merged-3"
 main = "./src/cf-worker/worker.ts"
 compatibility_date = "2025-05-08"
 compatibility_flags = ["nodejs_compat"]

@@ -1,5 +1,5 @@
 patchedDependencies:
   '@livestore/common@0.0.0-snapshot-8452e32b7fbfc129741b253b9c853f866b52129f': >-
-    /Users/MAC/repos/livestore-app/patches/@livestore__common@0.0.0-snapshot-8452e32b7fbfc129741b253b9c853f866b52129f.patch
+    ./patches/@livestore__common@0.0.0-snapshot-8452e32b7fbfc129741b253b9c853f866b52129f.patch
   '@livestore/utils@0.0.0-snapshot-8452e32b7fbfc129741b253b9c853f866b52129f': >-
     patches/@livestore__utils@0.0.0-snapshot-8452e32b7fbfc129741b253b9c853f866b52129f.patch
